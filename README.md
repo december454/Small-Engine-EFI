@@ -1,4 +1,4 @@
-# Small Gasolien Engine Electronic Fuel Injection System
+# Small Gasoline Engine Electronic Fuel Injection System
 ## Quick Links
 - [System Diagram](https://github.com/december454/Small-Engine-EFI/blob/main/Presentation/Microcontroller%20Engine%20EFI%20-%20System%20Diagram.png)
 - [Poster Presentation - GPHC 2024](https://github.com/december454/Small-Engine-EFI/blob/main/Presentation/GPHC%202024%20-%20Electronic%20Fuel%20Injection%20-%20Poster%20Final%20(Revised).pptx)  
