@@ -13,7 +13,7 @@ My project aims to illustrate these claims. I will implement an electronic fuel 
 ### Carburetor
 - [Carb - No Load (Idle)](https://github.com/december454/Small-Engine-EFI/blob/main/Experiment%20Trials/Carb%20-%20No%20Load/Summary%20-%20Carburetor%20-%20No%20Load.xlsx)
 - [Carb - 1500 Watt Load](https://github.com/december454/Small-Engine-EFI/blob/main/Experiment%20Trials/Carb%20-%201500W%20Load/Summary%20-%20Carburetor%20-%201500W%20Load.xlsx)
-## Electronic Fuel Injection
+### Electronic Fuel Injection
 - [EFI - No Load (Idle)](https://github.com/december454/Small-Engine-EFI/blob/main/Experiment%20Trials/EFI%20-%20No%20Load/Summary%20-%20EFI-%20No%20Load.xlsx)
 - [EFI - 1500 Watt Load](https://github.com/december454/Small-Engine-EFI/blob/main/Experiment%20Trials/EFI%20-%201500W%20Load/Summary%20-%20EFI%20-%201500W%20Load.xlsx)
 
